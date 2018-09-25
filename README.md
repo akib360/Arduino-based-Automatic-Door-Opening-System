@@ -8,10 +8,8 @@
   
   ![servo-motor-wires](https://user-images.githubusercontent.com/36074470/45993762-20b14400-c0b2-11e8-8e56-d4cf7723ba7d.png)
   4. LED: 
-  ![led con](https://user-images.githubusercontent.com/36074470/45993789-41799980-c0b2-11e8-8769-f89cddae3aba.jpg)
-
+  
   5. Wire:
-  ![wire](https://user-images.githubusercontent.com/36074470/45993804-60782b80-c0b2-11e8-8636-b342ee0f0aa6.jpg)
   
   6. Breadboard:
 
