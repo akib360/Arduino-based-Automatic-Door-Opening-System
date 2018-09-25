@@ -14,7 +14,7 @@
   6. Breadboard:
 
 # SOFTWARE:
-We used the Arduino Software (IDE) to write code and upload it to the board. It’s a Free and Open source software.
+I'm using the Arduino-Integrated Development Environment (IDE) to write code and upload it to the board. It’s a Free and Open source software.
 ![fffznz1im5wnq3z large](https://user-images.githubusercontent.com/36074470/45993904-e72d0880-c0b2-11e8-857a-6e86a6635f91.jpg)
 
 # Block Diagram for Hardware Implementation
