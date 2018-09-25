@@ -3,7 +3,6 @@
   ![arduino-uno](https://user-images.githubusercontent.com/36074470/45993692-d4660400-c0b1-11e8-867e-2a7edbae82c3.png)
 
   2. HC-SR04 Ultrasonic Sensor:
-  ![ultrasonic-sensor-pinout](https://user-images.githubusercontent.com/36074470/45993717-ef387880-c0b1-11e8-9b7c-f3d001c1c9e6.png)
   
   3. Servomotor:
   ![servo-motor-wires](https://user-images.githubusercontent.com/36074470/45993762-20b14400-c0b2-11e8-8e56-d4cf7723ba7d.png)
